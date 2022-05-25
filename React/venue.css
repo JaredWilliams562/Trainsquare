@@ -1,0 +1,31 @@
+.venueimage {
+    width: auto;
+    height: 300px;
+    margin: 5%;
+}
+
+.searchbar {
+    margin-top: 5%;
+    width: 300px;
+}
+
+.test {
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.rating {
+    text-align: right;
+}
+
+.ratingstars {
+    align-items: flex-end;
+}
+
+.postshadow {
+  box-shadow: 50px;   
+}
+
+.buttonspacing {
+    margin: 20px;
+}
